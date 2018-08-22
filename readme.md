@@ -70,6 +70,7 @@ If you are creating a new docs page, keep you images inside a subdirectory under
 
 Always try to use the existing components and features in markdown. Create a new component or use a component from NPM, unless there is no other option.
 
+
 ### Submiting Changes / New Doc Pages
 
 You can simply send a PR. It's simple as that.
